@@ -1,2 +1,2 @@
-# school-erp
+# project
 school-erp development
